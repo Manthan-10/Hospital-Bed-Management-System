@@ -1,0 +1,16 @@
+{
+    "Hospital_Bed_Management_System": "Système De Gestion Des Lits D'hôpitaux",
+    "Patients": "Les patients",
+    "Name": "Nom",
+    "Age": "Âge",
+    "Gender": "Le sexe",
+    "Date_Of_Birth": "Date De Naissance",
+    "Phone": "Téléphoner",
+    "Select_Floor": "Sélectionnez le sol",
+    "Select_Hospital": "Sélectionnez l'hôpital",
+    "Hospital": "Hôpital",
+    "Floor": "Étage",
+    "Room": "Salle",
+    "Log_Out": "Se déconnecter"
+    
+}

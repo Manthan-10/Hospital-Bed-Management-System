@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Sidebar UI Test Suite Checks if it renders correctly 1`] = `
+<nav
+  className="sidebar"
+>
+  <div
+    className="search-bar"
+  >
+    <input
+      className="search"
+      onChange={[Function]}
+      placeholder="Search..."
+      type="text"
+    />
+  </div>
+</nav>
+`;

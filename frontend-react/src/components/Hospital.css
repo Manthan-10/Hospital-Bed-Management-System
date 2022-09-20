@@ -1,0 +1,29 @@
+.hospital{
+    margin-top: 90px;
+    margin-left: 270px;
+    margin-right:10px;
+    margin-bottom:0;
+    background-color:white;
+    padding: 20px;
+   
+   
+   
+}
+.hospital-wrapper{
+    display:flex;
+    /* justify-content:center; */
+    min-height:100px;
+    float: right;
+    
+
+}
+
+.hospital-heading{
+    
+   text-align: center;
+   clear: right;
+}
+.body{
+    background-color:grey;
+    margin:0;
+}

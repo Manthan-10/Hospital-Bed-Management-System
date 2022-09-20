@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+.home{
+  display: flex;
+}
+
+body{
+  margin: 0px;
+}

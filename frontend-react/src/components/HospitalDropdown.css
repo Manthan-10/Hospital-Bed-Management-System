@@ -1,0 +1,18 @@
+
+.hsp-dropdown {
+  background-color:white;
+  padding: 20px;
+  /* margin-left:auto;
+  margin-right:15px;
+  margin-top: 10px; */
+
+}
+
+.select-container {
+  background-color:gray;
+}
+
+body{
+    margin:0;
+    background-color: rgb(199, 206, 206);
+}

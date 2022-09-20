@@ -1,0 +1,15 @@
+{
+    "Hospital_Bed_Management_System": "Sistem Pengurusan Katil Hospital",
+    "Patients": "Pesakit",
+    "Name": "Nama",
+    "Age": "Umur",
+    "Gender": "Jantina",
+    "Date_Of_Birth": "Tarikh Lahir",
+    "Phone": "Telefon",
+    "Select_Floor": "Pilih Lantai",
+    "Select_Hospital": "Pilih Hospital",
+    "Hospital": "Hospital",
+    "Floor": "Lantai",
+    "Room": "Bilik",
+    "Log_Out": "Log keluar"
+}

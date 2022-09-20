@@ -1,0 +1,169 @@
+.navbar {
+  background-color: #007cba;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin:0px;
+  padding:0px;
+  width: 100%;
+  top: 0;
+  right: 0;
+  position:fixed;
+  z-index: 1000;
+}
+
+.navheading{
+  color: white;
+  text-align: center;
+  justify-content: center; 
+  position: fixed;
+  align-items: center;
+  left: 30%;
+  top: 10px;
+}
+
+.sideheading{
+  color: white;
+  position: fixed;
+  left: 40px;
+  margin-left: 30px;
+}
+
+
+
+.dropdown {
+
+  position: fixed;
+  right: 200px;
+  display: inline-block;
+  margin-left: auto;
+}
+.dropbtn {
+
+  color: white;
+  background-color:#007cba; 
+  padding: 5px;
+  border: none;
+  cursor: pointer;
+
+}
+
+
+
+
+
+
+.dropdown-content {
+
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+
+}
+
+
+
+.dropdown-content > button {
+
+  border: none;
+  width: 100%;
+
+}
+
+
+
+.dropdown:hover .dropdown-content {
+
+  display: block;
+
+}
+
+
+
+.dropdown:hover .dropbtn {
+
+  background-color: var(--blue);
+
+}
+
+
+.navlogout{
+  display: flex;
+  color: white;
+  align-items: center;
+  position: fixed;
+  right: 20px;
+  
+}
+button.btn-logout{
+  background-color:#e6e61a;
+}
+
+button.btn-logout:hover{
+  background-color:#f51a0e;
+}
+
+body{
+  margin: 0px;
+}
+
+h2{
+  color: white;
+}
+
+.sidebar{
+  position: fixed;
+  height: 100vh;
+  padding-bottom: 100px;
+  width: 260px;
+  overflow: hidden;
+  overflow-y: scroll;
+  text-decoration: none;
+  background-color: #007cba;
+}
+
+.search{
+  width:260px;
+  border: solid 2px;
+  border-color: white;
+}
+
+.all-patients{
+  background-color: #007cba;
+  width:260px;
+}
+
+.all-patients .navlinks {
+  background-color: #007cba;
+  text-decoration: none !important;
+  width:260px;
+  color: white;
+  text-align: start !important;
+  border: solid 2px;
+  line-height:0.25;
+  text-decoration: none;
+  font-size:small;
+  padding: 15px 15px 5px 25px;
+ 
+  
+}
+
+.navlinks:hover{
+  background-color: #0c98de;
+}
+
+.dont-view{
+  display:none;
+  visibility: hidden;
+}
+
+.view{
+  height:20px;
+  background-color:orange;
+}
+
+

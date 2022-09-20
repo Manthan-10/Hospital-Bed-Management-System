@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Room UI Test Suite Checks if it renders correctly 1`] = `
+<div
+  className="room"
+>
+  <div
+    className="headings"
+  />
+  <div
+    className="room-wrapper"
+  />
+</div>
+`;

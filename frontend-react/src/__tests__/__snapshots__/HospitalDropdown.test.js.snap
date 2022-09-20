@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HospitalDropdown UI Test Suite Checks if it renders correctly 1`] = `
+<div
+  className="hsp-dropdown"
+>
+  <select
+    className="select-container"
+    onChange={[Function]}
+    size="large"
+  >
+    <option>
+      Select_Hospital
+    </option>
+  </select>
+</div>
+`;

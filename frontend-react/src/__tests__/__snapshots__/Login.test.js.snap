@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login UI Test Suite Checks if it renders correctly 1`] = `
+<div
+  className="col-md-12"
+>
+  <center>
+    <h1>
+      Hospital Bed Management System
+    </h1>
+  </center>
+  <div
+    className="card card-container"
+  >
+    <img
+      alt="profile-img"
+      className="profile-img-card"
+      src="//ssl.gstatic.com/accounts/ui/avatar_2x.png"
+    />
+    <form
+      onSubmit={[Function]}
+    >
+      <div
+        className="form-group"
+      >
+        <label
+          htmlFor="username"
+        >
+          Username
+        </label>
+        <div>
+          <input
+            className="form-control"
+            id="username"
+            name="username"
+            onBlur={[Function]}
+            onChange={[Function]}
+            type="text"
+            value=""
+          />
+        </div>
+      </div>
+      <div
+        className="form-group"
+      >
+        <label
+          htmlFor="password"
+        >
+          Password
+        </label>
+        <div>
+          <input
+            className="form-control"
+            id="password"
+            name="password"
+            onBlur={[Function]}
+            onChange={[Function]}
+            type="password"
+            value=""
+          />
+        </div>
+      </div>
+      <div
+        className="form-group"
+      >
+        <button
+          className="btn btn-primary btn-block"
+          disabled={false}
+        >
+          <span>
+            Login
+          </span>
+        </button>
+      </div>
+      
+      <button
+        disabled={true}
+        style={
+          Object {
+            "display": "none",
+          }
+        }
+      />
+    </form>
+  </div>
+</div>
+`;

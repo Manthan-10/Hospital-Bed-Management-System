@@ -1,0 +1,58 @@
+# ### Frontend Gitignore ###
+
+# dependencies
+frontend-react/node_modules
+frontend-react/README.md
+frontend-react/package-lock.json
+frontend-react/.pnp
+frontend-react/.pnp.js
+frontend-react/.env
+
+# testing
+frontend-react/coverage
+
+# production
+frontend-react/build
+
+# misc
+frontend-react/.DS_Store
+frontend-react/.env.local
+frontend-react/.env.development.local
+frontend-react/.env.test.local
+frontend-react/.env.production.local
+
+frontend-react/npm-debug-log*
+
+### Backend ###
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/

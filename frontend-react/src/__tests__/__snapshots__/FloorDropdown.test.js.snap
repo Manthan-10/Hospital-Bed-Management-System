@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FloorDropdown UI Test Suite Checks if it renders correctly 1`] = `
+<div
+  className="floors"
+>
+  <select
+    className="select-container"
+    onChange={[Function]}
+    size="large"
+  >
+    <option>
+      Select_Floor
+       
+    </option>
+  </select>
+</div>
+`;

@@ -1,0 +1,11 @@
+.floors{
+    flex-direction: column;
+    background-color:white;
+    /* align-items: center; */
+    padding: 20px;
+    /* margin-left:270px;
+    margin-right:15px;
+    margin-top:15px; */
+    justify-content:flex-end;
+}
+

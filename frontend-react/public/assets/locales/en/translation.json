@@ -1,0 +1,15 @@
+{
+    "Hospital_Bed_Management_System": "Hospital Bed Management System",
+    "Patients": "Patients",
+    "Name": "Name",
+    "Age": "Age",
+    "Gender": "Gender",
+    "Date_Of_Birth": "Date Of Birth",
+    "Phone": "Phone",
+    "Select_Floor": "Select Floor",
+    "Select_Hospital": "Select Hospital",
+    "Hospital": "Hospital",
+    "Floor": "Floor",
+    "Room": "Room",
+    "Log_Out": "Log Out"
+}
